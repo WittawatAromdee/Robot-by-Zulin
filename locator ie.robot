@@ -9,7 +9,7 @@ ${USERNAME_FIELD}                   id=IDToken1
 
 *** Test Cases ***
 test login phantomJS
-                Open Browser        http://www.google.co.th         gc
+                Open Browser        http://www.google.co.th         ff
                 Input Text    name=q         test12345678
 
 ***comment***
